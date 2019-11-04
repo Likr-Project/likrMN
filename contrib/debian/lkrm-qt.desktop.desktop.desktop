@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LKRM
+Comment=LKRM P2P Cryptocurrency
+Exec=lkrm-qt %u
+Terminal=false
+Type=Application
+Icon=lkrm128
+MimeType=x-scheme-handler/lkrm;
+Categories=Office;Finance;
+Name[ru]=lkrm-qt.desktop.desktop

@@ -1,0 +1,26 @@
+# /etc/conf.d/lkrmd: config file for /etc/init.d/lkrmd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/lkrm/lkrm.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/lkrmd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/lkrmd.pid"
+
+# Where to write lkrmd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/lkrmd"
+
+# User and group to own lkrmd process
+#BITCOIND_USER="lkrm"
+#BITCOIND_GROUP="lkrm"
+
+# Path to lkrmd executable
+#BITCOIND_BIN="/usr/bin/lkrmd"
+
+# Nice value to run lkrmd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

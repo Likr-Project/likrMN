@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/lkrm_bg.qm</file>
+        <file alias="ca">locale/lkrm_ca.qm</file>
+        <file alias="cs">locale/lkrm_cs.qm</file>
+        <file alias="da">locale/lkrm_da.qm</file>
+        <file alias="de">locale/lkrm_de.qm</file>
+        <file alias="en">locale/lkrm_en.qm</file>
+        <file alias="en_US">locale/lkrm_en_US.qm</file>
+        <file alias="es">locale/lkrm_es.qm</file>
+        <file alias="fi">locale/lkrm_fi.qm</file>
+        <file alias="fr_FR">locale/lkrm_fr_FR.qm</file>
+        <file alias="it">locale/lkrm_it.qm</file>
+        <file alias="ja">locale/lkrm_ja.qm</file>
+        <file alias="ko_KR">locale/lkrm_ko_KR.qm</file>
+        <file alias="nl">locale/lkrm_nl.qm</file>
+        <file alias="pl">locale/lkrm_pl.qm</file>
+        <file alias="pt">locale/lkrm_pt.qm</file>
+        <file alias="pt_BR">locale/lkrm_pt_BR.qm</file>
+        <file alias="ro_RO">locale/lkrm_ro_RO.qm</file>
+        <file alias="ru">locale/lkrm_ru.qm</file>
+        <file alias="sk">locale/lkrm_sk.qm</file>
+        <file alias="sv">locale/lkrm_sv.qm</file>
+        <file alias="tr">locale/lkrm_tr.qm</file>
+        <file alias="uk">locale/lkrm_uk.qm</file>
+        <file alias="zh_CN">locale/lkrm_zh_CN.qm</file>
+        <file alias="zh_TW">locale/lkrm_zh_TW.qm</file>
+    </qresource>
+</RCC>
